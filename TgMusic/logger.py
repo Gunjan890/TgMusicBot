@@ -39,4 +39,4 @@ for lib in ("httpx", "aiohttp"):
 # logging.getLogger("ffmpeg").setLevel(logging.DEBUG)
 # logging.getLogger("webrtc").setLevel(logging.DEBUG)
 
-LOGGER = logging.getLogger("TgMusicBot")
+LOGGER = logging.getLogger("TgMusic")
